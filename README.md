@@ -9,3 +9,5 @@ To run the application locally:
 2. Run $ pip install -r requirements.txt  in the directory
 3. Run $ python app.py
 4. Copy the url mentioned after running and put the link in a browser 
+I think you should use an
+`<addr>` element here instead.
