@@ -6,7 +6,7 @@ The web application can be found here: https://stock-price-visualization.herokua
 To run the application locally:
 
 1. Download the files in a folder
-2. Run '$ pip install -r requirements.txt'  in the directory
-3. Run '$ python app.py'
+2. Run `$ pip install -r requirements.txt`  in the directory
+3. Run `$ python app.py`
 4. Copy the url mentioned after running and put the link in a browser 
 
